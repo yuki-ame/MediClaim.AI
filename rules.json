@@ -1,0 +1,44 @@
+{
+  "99213": {
+    "covered": true,
+    "description": "Office/outpatient visit, established patient, level 3",
+    "max_amount": 150,
+    "preauth_required": false,
+    "allowed_frequency": "1/30d"
+  },
+  "99214": {
+    "covered": true,
+    "description": "Office/outpatient visit, established patient, level 4",
+    "max_amount": 200,
+    "preauth_required": true,
+    "allowed_frequency": "2/30d"
+  },
+  "36415": {
+    "covered": true,
+    "description": "Routine venipuncture",
+    "max_amount": 10,
+    "preauth_required": false,
+    "allowed_frequency": "1/1d"
+  },
+  "J1885": {
+    "covered": false,
+    "description": "Injection, ketorolac tromethamine, per 15 mg",
+    "max_amount": 0,
+    "preauth_required": false,
+    "allowed_frequency": "n/a"
+  },
+  "80053": {
+    "covered": true,
+    "description": "Comprehensive metabolic panel",
+    "max_amount": 35,
+    "preauth_required": false,
+    "allowed_frequency": "1/7d"
+  },
+  "G0297": {
+    "covered": true,
+    "description": "Low dose CT lung cancer screening",
+    "max_amount": 350,
+    "preauth_required": true,
+    "allowed_frequency": "1/365d"
+  }
+}
